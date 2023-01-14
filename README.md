@@ -37,7 +37,10 @@ HTML | CSS | GIT
 - **Error free Linters Installation**
 - **Easy to understand comments**
 
+<<<<<<< HEAD
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+=======
+>>>>>>> 185ee89ea53d805ad086dd639469fc94dcd9664c
 
 ## 👥 Author <a name="author"></a>
 
@@ -66,7 +69,11 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
+<<<<<<< HEAD
 Clone <a href="https://github.com/m-ayyaz/Portfolio-Setup-Mobile-first.git">This</a>) repository to your desired folder
+=======
+Clone <a href="https://github.com/m-ayyaz/Portfolio-Setup-Mobile-first.git">This</a> repository to your desired folder
+>>>>>>> 185ee89ea53d805ad086dd639469fc94dcd9664c
 
 ### Install
 
@@ -150,4 +157,8 @@ This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
+<<<<<<< HEAD
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+=======
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+>>>>>>> 185ee89ea53d805ad086dd639469fc94dcd9664c
