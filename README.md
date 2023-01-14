@@ -57,7 +57,7 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-Clone <a href="https://github.com/m-ayyaz/Portfolio-Setup-Mobile-first.git">This</a>) repository to your desired folder
+Clone <a href="https://github.com/m-ayyaz/Portfolio-Setup-Mobile-first.git">This</a> repository to your desired folder
 
 ### Install
 
