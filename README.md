@@ -30,6 +30,14 @@
 
 HTML | CSS | GIT
 
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+- **Responsive Design**
+- **Error free Linters Installation**
+- **Easy to understand comments**
+
+
 ## 👥 Author <a name="author"></a>
 
 👤 **Muhammad Ayaz Munir**
